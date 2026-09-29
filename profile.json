@@ -1,0 +1,7 @@
+{
+  "version": "v1",
+  "summary": "Data engineer, 4+ years, Python and SQL in banking and insurance. Snowflake, Azure Data Factory, SSIS, PySpark. Looking for remote or Atlantic Canada roles.",
+  "must_haves": ["python", "sql"],
+  "nice_to_haves": ["snowflake", "azure", "pyspark", "remote"],
+  "dealbreakers": ["on-site five days a week", "unpaid"]
+}
